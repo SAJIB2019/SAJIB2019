@@ -39,7 +39,7 @@
     
 ## _Waka Time Stats:_ ⚡
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SAJIB2019&layout=compact&langs_count=10&locale=en" alt="SAJIB2019" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sohel_Rana_Sajib&layout=compact&langs_count=10&locale=en" alt="SAJIB2019" /></p>
 
 ## _Contributions:_
  
