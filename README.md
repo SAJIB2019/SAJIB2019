@@ -76,6 +76,103 @@ Beyond frontend development, I work with backend technologies and explore system
 
 ---
 
+## 💼 Professional Projects — Selected Work
+
+A selection of real-world applications I've worked on professionally, spanning AI-powered SaaS, compliance management, travel marketplaces, operational dashboards, and business analytics.
+
+> These are professional/team projects. Source code may be proprietary. Product descriptions highlight publicly shareable functionality.
+
+### 🧠 RAG Platform — Enterprise AI Knowledge Management
+
+**AI SaaS · Knowledge Management · Subscription Platform**
+
+An enterprise knowledge management platform that enables organizations to manage internal documents and retrieve contextual information through an AI-powered chat interface.
+
+**Product Highlights:**
+- Organization registration and employee onboarding
+- Centralized organizational document management
+- AI-powered document search and contextual chat
+- Knowledge retrieval from internal documents
+- Subscription-based platform access
+
+[🌐 View Selected Work](https://sohel-rana-sajib.vercel.app/)
+
+---
+
+### 🏢 Suirikyou — Facility Compliance & Certification
+
+**Compliance Platform · Japan · Subscription SaaS**
+
+A Japanese facility hygiene management platform supporting certification workflows for restaurants and other businesses.
+
+**Product Highlights:**
+- Facility hygiene compliance assessments
+- Certification application and management workflows
+- Certificate issuance and subscription-based validity
+- Japanese-language business interfaces
+- Long-term subscription services
+
+[🌐 Visit Live Website](https://suirikyo.com/)
+
+---
+
+### 🗾 Moe Guide — Japan Travel Marketplace
+
+**Travel Marketplace · Booking · Localization**
+
+A Japan-focused travel marketplace connecting travelers with local guides for personalized experiences.
+
+**Product Highlights:**
+- Local guide discovery
+- Destination and travel experience browsing
+- Hourly guide-booking concept
+- Japan-focused localization
+- Responsive travel marketplace interface
+
+[🌐 Visit Live Website](https://moeguide-app.vercel.app/)
+
+---
+
+### 🚗 Benrimono — Operations Management Dashboard
+
+**Admin Dashboard · User Management · Operational Monitoring**
+
+An administrative management platform designed to provide visibility into users, drivers, and operational activities.
+
+**Product Highlights:**
+- Centralized administrative dashboard
+- User and driver management
+- Registered account monitoring
+- Active account visibility
+- Operational management workflows
+
+[🌐 View Selected Work](https://sohel-rana-sajib.vercel.app/)
+
+---
+
+### 📊 Report Tool — Brand Intelligence & Analytics
+
+**Analytics · Reporting · Brand Strategy**
+
+A business reporting platform designed to help organizations understand brand performance, positioning, and market perception.
+
+**Product Highlights:**
+- Brand performance reporting
+- Analytics and business insights
+- Brand positioning analysis
+- Market perception tracking
+- Report creation and management workflows
+
+[🌐 View Selected Work](https://sohel-rana-sajib.vercel.app/)
+
+---
+
+**Explore more professional work:** [View My Portfolio](https://sohel-rana-sajib.vercel.app/)
+
+*Professional projects are presented for portfolio purposes. Implementation details and proprietary source code are not publicly disclosed.*
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧠 RAG From Zero — AI Retrieval Backend
