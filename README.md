@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Sohel Rana Sajib 👋
@@ -185,4 +184,3 @@ I'm interested in opportunities to collaborate on impactful web applications, sc
 *Building reliable software, learning continuously, and improving one project at a time.*
 
 </div>
-```
