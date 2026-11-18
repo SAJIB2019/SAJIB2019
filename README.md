@@ -1,47 +1,188 @@
+```md
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAJIB2019&label=Profile%20views&color=0e75b6&style=social" alt="sajib" /> 
-</p>
+# Hi, I'm Sohel Rana Sajib 👋
 
-<h1 align="center"> Hi 👋, I'm Md. Sohel Rana Sajib </h1>
-<p>
-  A lifelong learner, currently fascinated by machine learning, artificial intelligence, and quantum computing. I am not confined to a single branch and believe that anything new is never too complex to comprehend.
-</p>
+### Frontend & Full-Stack Software Engineer
 
-## _Connect with me:_ 😄
+**React • Next.js • TypeScript • Node.js • Nest.js • FastAPI • PostgreSQL**
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sohel-rana-sajib-626a98195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajib" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sajib420110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajib" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sohel_rana_sajib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajib" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11677151/sohel-rana-sajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sajib" height="30" width="40" /></a>
-</p>
+Building scalable, maintainable, and high-performance web applications.
 
-## _Languages and Tools:_ ⚡
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://sohel-rana-sajib.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohel-rana-sajib-626a98195/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajib2019)
 
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=SAJIB2019&color=0e75b6&style=flat-square)
 
-## _Github Stats:_ ⚡
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=SAJIB2019&show_icons=true&count_private=true&locale=en" alt="SAJIB2019" /></p>
-    
-## _Waka Time Stats:_ ⚡
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sohel_Rana_Sajib&layout=compact&langs_count=10&locale=en" alt="SAJIB2019" /></p>
+---
 
-## _Contributions:_
- 
-(in the last 365 days, languages pie based on number of commits)
-![](./profile-3d-contrib/profile-green-animate.svg)
+## 👨‍💻 About Me
+
+I'm a **Frontend and Full-Stack Software Engineer** with **3+ years of professional frontend development experience**, specializing in React, Next.js, JavaScript, and TypeScript.
+
+I enjoy building responsive, accessible, and maintainable web applications, designing reusable components, integrating APIs, and improving frontend performance.
+
+Beyond frontend development, I work with backend technologies and explore system architecture, authentication, database design, containerization, and AI-powered applications.
+
+### 🔍 Areas of Focus
+
+- ⚡ **Frontend Engineering:** React, Next.js, TypeScript, responsive interfaces, and performance optimization
+- 🏗️ **Application Architecture:** Component design, rendering strategies, state management, and API integration
+- 🔐 **Backend Development:** REST APIs, authentication, authorization, and database integration
+- 🗄️ **Databases:** PostgreSQL, Prisma, and relational data modeling
+- 🐳 **DevOps & Deployment:** Docker, CI/CD, AWS, and Vercel
+- 🤖 **AI Engineering:** Retrieval-Augmented Generation (RAG), LLM integration, and background processing
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases & Data Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Development Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 RAG From Zero — AI Retrieval Backend
+
+**Tech Stack:** NestJS, TypeScript, PostgreSQL, pgvector, Redis, BullMQ, Prisma
+
+A backend project exploring Retrieval-Augmented Generation with document retrieval, asynchronous processing, and AI integration.
+
+**Technical Highlights:**
+
+- Hybrid retrieval and vector search
+- Background job processing with Redis and BullMQ
+- Separate API and worker services
+- Health and readiness endpoints
+- Prometheus metrics and OpenTelemetry integrations
+- Docker-based development and deployment configuration
+- Load-testing scripts and operational documentation
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SAJIB2019/RAG-FROM-ZERO)
+
+---
+
+### 📊 Employee Attrition Prediction — ML Engineering
+
+**Focus:** Machine Learning, APIs, MLOps, Monitoring
+
+A machine learning project exploring employee attrition prediction and supporting ML application infrastructure.
+
+**Technical Highlights:**
+
+- Machine learning training pipeline
+- Flask API integration
+- MLflow and Feast tooling
+- Prometheus and Grafana monitoring configuration
+- Docker Compose and cloud infrastructure scaffolding
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SAJIB2019/Employee-attrition-prediction)
+
+---
+
+### 🛒 E-Commerce Application — Frontend Development
+
+**Focus:** React, responsive UI, API integration
+
+A frontend e-commerce project demonstrating application development and API integration.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SAJIB2019/Full_Ecommerce_Project_With_API)
+
+---
+
+### 🌐 Portfolio Website
+
+A personal portfolio project showcasing frontend development work.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SAJIB2019/My_Portfolio_Website)
+[![Live Portfolio](https://img.shields.io/badge/Visit_Current_Portfolio-000000?style=for-the-badge&logo=vercel)](https://sohel-rana-sajib.vercel.app/)
+
+---
+
+## 🧩 Engineering Interests
+
+I'm particularly interested in:
+
+- **Frontend Architecture:** Server-side rendering, React Server Components, caching, hydration, and application performance
+- **Backend Architecture:** API design, authentication, database transactions, and background jobs
+- **Scalable Systems:** Queues, caching, rate limiting, and distributed application design
+- **Software Quality:** Automated testing, maintainable code, observability, and CI/CD
+- **AI Applications:** LLM APIs, vector databases, retrieval pipelines, and agentic workflows
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAJIB2019&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAJIB2019&layout=compact&hide_border=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SAJIB2019&theme=transparent&hide_border=true)
+
+</div>
+
+> GitHub statistics reflect public repository activity and do not represent the full scope of professional engineering experience.
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAJIB2019&theme=github-compact&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities to collaborate on impactful web applications, scalable backend systems, and modern software engineering projects.
+
+- 🌐 **Portfolio:** [sohel-rana-sajib.vercel.app](https://sohel-rana-sajib.vercel.app/)
+- 💼 **LinkedIn:** [Sohel Rana Sajib](https://www.linkedin.com/in/sohel-rana-sajib-626a98195/)
+- 💻 **GitHub:** [github.com/sajib2019](https://github.com/sajib2019)
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+*Building reliable software, learning continuously, and improving one project at a time.*
+
+</div>
+```
